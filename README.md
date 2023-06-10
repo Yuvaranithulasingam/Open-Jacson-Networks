@@ -65,7 +65,7 @@ print("----------------------------------------------------------------------")
 ```
 ## Output
 
-![colab 4](https://github.com/Yuvaranithulasingam/Open-Jacson-Networks/assets/121418522/43ba2fbe-187e-4bd9-96c5-63b45d738178)
+![colab 4](https://github.com/Yuvaranithulasingam/Open-Jacson-Networks/assets/121418522/8fe36a20-0871-4545-9e58-0a024a50d904)
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
